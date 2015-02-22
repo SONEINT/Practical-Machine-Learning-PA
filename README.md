@@ -1,6 +1,8 @@
-# Practical-Machine-Learning-PA
-Practical Machine Learning Course Project
-Author: @Soc_Net_Intel
+DATA SCIENCE SPECIALIZATION COURSE - PRACTICAL MACHINE LEARNING - PROGRAMMING ASSESSMENT
+==========================================================================================
+*SONEINT @Soc_Net_Intel*
+
+![Practical Machine Learning](https://github.com/SONEINT/Practical-Machine-Learning-PA/blob/master/files/PredictionMachineLearning.jpg)
 
 
 ## Background
