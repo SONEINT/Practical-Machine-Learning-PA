@@ -5,6 +5,20 @@ DATA SCIENCE SPECIALIZATION COURSE - PRACTICAL MACHINE LEARNING - PROGRAMMING AS
 ![Practical Machine Learning](https://github.com/SONEINT/Practical-Machine-Learning-PA/blob/master/files/PredictionMachineLearning.jpg)
 
 
+## Students guide for evaluation
+
+You should find the **PA_SONEINT files** (md, Rmd and html) in the repository to evaluate
+the work done. The figures shown are also available in the figure folder.
+
+You should find at the end of the report two piece of code which help me to investigate
+the data distribution which are inspired from the book I use to help myself to master
+the Coursera Data Science program ("Exploration de données et méthodes statistiques - Data
+analysis & Data mining avec le logiciel R" from Lise Bellanger and Richard Tomassone 
+ELLIPSES). I recommend this research R book from french CNRS professors and researchers.
+
+Some of the figures produced by these two pieces of code are available in the additional
+figures folder for further analysis.
+
 ## Background
 
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal 
